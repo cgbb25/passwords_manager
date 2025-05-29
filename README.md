@@ -65,15 +65,11 @@ La aplicación permite almacenar, editar, eliminar y buscar contraseñas asociad
 1. **Clonar el repositorio** o descargar el proyecto.
 2. **Crear un entorno virtual** en la carpeta raíz (opcional pero recomendado):
 
----
-
 python -m venv venv
 
 source venv/bin/activate   # Linux/macOS
 
 venv\Scripts\activate      # Windows
-
----
 
 3. **Instalar las dependencias:**
 
