@@ -71,7 +71,7 @@ source venv/bin/activate   # Linux/macOS
 
 venv\Scripts\activate      # Windows
 
-3. **Instalar las dependencias:**
+3. **Instalar las dependencias:** Las librerías importadas se encuentran en el archivo "requeriments.txt"
 
 4. **Ejecutar la aplicación:**
 
