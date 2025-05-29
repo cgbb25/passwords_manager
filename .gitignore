@@ -1,0 +1,17 @@
+# Entorno virtual (venv)
+venv/
+
+# Bases de datos sensibles
+password_manager.db
+historial.db
+
+# Archivos de clave secreta
+secret.key
+
+# Archivos de cache de Python
+__pycache__/
+*.pyc
+
+# Otros archivos que no deberían subirse
+*.db
+*.sqlite
