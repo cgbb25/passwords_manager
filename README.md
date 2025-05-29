@@ -68,7 +68,9 @@ La aplicación permite almacenar, editar, eliminar y buscar contraseñas asociad
 ---
 
 python -m venv venv
+
 source venv/bin/activate   # Linux/macOS
+
 venv\Scripts\activate      # Windows
 
 ---
