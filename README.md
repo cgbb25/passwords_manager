@@ -87,7 +87,7 @@ Al ejecutar por primera vez, el programa crea dos carpetas para almacenamiento:
 
 - El archivo secret.key se generará en la carpeta raíz de la carpeta
 
-## Consideraciones y Advertencias
+## Consideraciones del Programa
 
 - La aplicación distingue entre mayúsculas y minúsculas para todos los campos (servicio, usuario, contraseña y notas).
 
@@ -110,6 +110,16 @@ Al ejecutar por primera vez, el programa crea dos carpetas para almacenamiento:
 - Añadir funcionalidad para copiar contraseñas al portapapeles con timeout automático.
 
 - Incorporar un modo oscuro para la interfaz gráfica.
+
+## Consideraciones Finales y Aclaraciones
+
+1. ***Proposito Educativo y Demostrativo***
+
+Esta aplicación está diseñada principalmente con fines educativos y en se hace uso de habilidades en desarrollo de software, criptografía y gestión segura de datos. No pretende ser una solución definitiva o lista para producción en entornos sensibles. Se recomienda evaluar cuidadosamente antes de usarla para gestionar contraseñas reales y considerar futuras mejoras para robustecer su seguridad y funcionalidad.
+
+2. ***Apertura a Sugerencias y Mejoras***
+
+Se agradecen contribuciones y feedback constructivo para enriquecer el proyecto. Sin embargo, la atención a estas propuestas dependerá del tiempo disponible y prioridades del autor.
 
 ## Licencia
 
