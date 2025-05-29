@@ -95,6 +95,22 @@ Al ejecutar por primera vez, el programa crea dos carpetas para almacenamiento:
 
 - El historial registra solo modificaciones y eliminaciones, no accesos de lectura.
 
+## Posibles Mejoras Futuras
+
+- Añadir funcionalidad para exportar/importar contraseñas cifradas.
+
+- Implementar autenticación por biometría o PIN adicional.
+
+- Añadir búsqueda avanzada con filtro insensible a mayúsculas y ordenamiento.
+
+- Mejorar la seguridad del archivo de clave (secret.key) con métodos de protección externos.
+
+- Implementar notificaciones o alertas de seguridad ante accesos sospechosos.
+
+- Añadir funcionalidad para copiar contraseñas al portapapeles con timeout automático.
+
+- Incorporar un modo oscuro para la interfaz gráfica.
+
 ## Licencia
 
 Este proyecto es para fines demostrativos y educativos. No está diseñado para producción sin auditoría de seguridad adicional
