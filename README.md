@@ -12,39 +12,22 @@ La aplicación permite almacenar, editar, eliminar y buscar contraseñas asociad
 
 ```
 ├── assets/ # Recursos adicionales, imágenes y iconos
-
 ├── ui/ # Paquete con ventanas gráficas (Tkinter)
-
 │ ├── add_password_window.py # Añadir nueva contraseña
-
 │ ├── change_master_key_window.py # Cambiar clave maestra
-
 │ ├── delete_password_window.py # Eliminar contraseña
-
 │ ├── edit_password_window.py # Editar contraseña
-
 │ ├── history_list_window.py # Mostrar historial de acciones
-
 │ ├── login_window.py # Ventana de login
-
 │ ├── main_window.py # Ventana principal con funciones
-
 │ ├── password_list_window.py # Mostrar lista de contraseñas
-
 │ ├── search_password_window.py # Buscar contraseña por servicio y usuario
-
 ├── auth.py # Funciones de autenticación y hashing de clave maestra
-
 ├── database.py # Funciones para gestión de base de datos de contraseñas
-
 ├── encryption.py # Funciones para encriptar/desencriptar contraseñas (Fernet)
-
 ├── historial.py # Gestión de base de datos de historial de uso
-
 ├── main.py # Punto de entrada para ejecutar la aplicación
-
 ├── mostrar_data.py # Archivo auxiliar para mostrar datos en lista
-
 ├── requirements.txt # Librerías necesarias para instalar el entorno
 ```
 
