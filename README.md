@@ -10,6 +10,7 @@ La aplicación permite almacenar, editar, eliminar y buscar contraseñas asociad
 
 ## Estructura del Proyecto
 
+```
 ├── assets/ # Recursos adicionales, imágenes y iconos
 
 ├── ui/ # Paquete con ventanas gráficas (Tkinter)
@@ -45,6 +46,7 @@ La aplicación permite almacenar, editar, eliminar y buscar contraseñas asociad
 ├── mostrar_data.py # Archivo auxiliar para mostrar datos en lista
 
 ├── requirements.txt # Librerías necesarias para instalar el entorno
+```
 
 ---
 
